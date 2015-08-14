@@ -1,0 +1,45 @@
+body {
+	background-color: #DCDDD8
+	font-color: red;
+	font-style: Arial, sans-serif;
+	text-align: center;
+}
+
+body {
+	line-height: 0;
+	font-family:arial
+	left: 600px;
+}
+
+
+.container {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	left: 600px;
+}
+
+
+.square {
+	background-color:#E8E8E8;
+	display: inline-block;
+	left: 600px;
+}
+
+h1, p{
+	text-align: center;
+	left: 600px;
+
+}
+
+
+.grid {
+	background-color:black; 
+}
+
+button > a {
+	text-decoration:none;
+	font-color:black;
+}
+
